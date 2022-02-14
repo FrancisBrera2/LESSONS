@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Pseudo Class Selectors</title>
+<style>
+/* Styles go here. */
+header li 
+
+
+</style>
+</head>
+<body>
+<h1>Have sex with dubu</h1>
+
+<header>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="http://goo.gl/V0Wl6s" target="_blank">AngularJS Course</a></li>
+    <li><a href="http://www.facebook.com/CourseraWebDev" target="_blank">Facebook Fan Page</a></li>
+  </ul>
+</header>
+
+<section>
+  <div>Legs</div>
+  <div>Peach</div>
+  <div>Lips</div>
+  <div>Boobies</div>
+  <div>Face</div>
+</section>
+
+</body>
+</html>
