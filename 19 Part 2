@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>TWICE</title>
+<style>
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: pink;
+}
+
+#box {
+  background-color: white;
+  padding: 10px 10px 10px 10px;
+  border: 20px solid black;
+  margin: 40px;
+  width: 300px;
+  margin-top: 20px;
+  
+}
+#content {
+  background-color: purple; /*green*/
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+</style>
+</head>
+<body>
+
+<h1>TWICE</h1>
+
+<div id="box">
+  <div id="content"> Formula of Love </div>
+</div>
+
+
+</body>
+</html>
+
+
+
