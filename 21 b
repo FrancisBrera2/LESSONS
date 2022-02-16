@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>TWICE</title>
+<style>
+
+*{ 
+box-sizing: border-box; 
+}
+
+
+div {
+  background-color: purple;
+}
+p {
+  width: 50%;
+  border: 1px solid black;
+  float: left;
+  padding: 10px;
+}
+
+#p1 {
+  background-color: pink;
+}
+#p2 {
+  background-color: orange;
+}
+
+section {
+  clear: left;
+}
+
+
+</style>
+</head>
+<body>
+<h1>TWICE</h1>
+
+<div>
+  <p id="p1">Formula of love</p>
+  <p id="p2">Alchol free</p>
+  <section>buy all the albums</section>
+</div>
+
+
+</body>
+</html>
