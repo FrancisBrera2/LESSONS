@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>TWICE</title>
+<style>
+#bg {
+  width: 1000px;
+  height: 500px;
+  background-color: pink;
+  background-image: url( https://www.allkpop.com/upload/2021/11/content/052201/1636164060-20211105-twice.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+
+</style>
+</head>
+<body>
+<h1>Scientist</h1>
+
+<div id="bg">Love is not a science</div>
+</body>
+</html>
+
